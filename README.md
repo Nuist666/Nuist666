@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nuist666&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuist666&theme=radical)](https://github.com/anuraghazra/github-readme-stats)　　
-# 👋🏻 これまで通り…いえ！これからも！よろしくお願いいたします！
+# これまで通り…いえ！これからも！よろしくお願いいたします！
 **My daughter here 👉**
 # You are my ![Visitor Count](https://profile-counter.glitch.me/Nuist666/count.svg) visitor,Thank You!  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuist666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  

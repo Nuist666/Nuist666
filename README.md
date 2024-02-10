@@ -7,11 +7,9 @@
 # You are my ![Visitor Count](https://profile-counter.glitch.me/Nuist666/count.svg) visitor,Thank You!  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nuist666&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
+MetaMask  
+![image](https://github.com/Nuist666/Nuist666/assets/104258411/a5c3224e-923a-48fd-9f22-587b32eb0da7)
 
-<div align="center">
-	<br>
-	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>　
 
 
 <!--
